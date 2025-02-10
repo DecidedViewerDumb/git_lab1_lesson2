@@ -10,17 +10,19 @@
 1. Merge remote-tracking branch 'refs/remotes/origin/boots' into boots_buttons
 2. Merge remote-tracking branch 'refs/remotes/origin/buttons' into boots_buttons
 
-Количество коммитов в удаленном репозитории в ветке master: 10
+Количество коммитов в удаленном репозитории в ветке master: 12
 Комментарии коммитов:
 -- коммиты за 29 январь 2016
 1. init
 2. boots
-3. README added
-4. dots
-5. fix readme
+3. heat added
+4. README added
+5. dots
+6. fix readme
 -- коммиты за 10 январь 2025
 1. Merge remote-tracking branch 'refs/remotes/origin/boots' into boots_buttons
 2. Merge remote-tracking branch 'refs/remotes/origin/buttons' into boots_buttons
 3. Commit Задание 2.1
 4. Merge branch 'refs/heads/boots_buttons'
 5. Commit Задание 2.4
+6. Commit Задание 2.4 fix
